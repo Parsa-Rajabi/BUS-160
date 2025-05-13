@@ -10,21 +10,22 @@ All course slides are password protected. Visit course info page on D2L Brightsp
 > The days marked as "Asynchronous" are online learning days. You are expected to complete the assigned tasks on your own time (there will be no Zoom class on those days). 
 
 
-| **Wk#** | **Date** |        **Modality**         |         **Topic**          |         **Course Notes**         |                  **Videos**                   |    **Assignments**     |     **Module Test**      |
-| :-----: | :------: | :-------------------------: | :------------------------: | :------------------------------: | :-------------------------------------------: | :--------------------: | :----------------------: |
-|    1    |  May 13  |        Live `[Zoom]`        |  Syllabus & Introductions  |                                  |                                               |                        |                          |
-|    2    |  May 20  | Asynchronous [Drop-in Help] |    MS Word Chapters 1-3    | [Slides](http://tiny.cc/100-W2)  |    [Videos](videos.md#word---chapters-1-3)    |                        |                          |
-|    3    |  May 27  |        Live `[Zoom]`        |    MS Word Chapters 4-7    | [Slides](http://tiny.cc/100-W3)  |    [Videos](videos.md#word---chapters-4-7)    |                        |    Word 1-3  (May 26)    |
-|    4    |  June 3  | Asynchronous [Drop-in Help] |   MS Word Chapters 8-11    | [Slides](http://tiny.cc/100-W4)  |   [Videos](videos.md#word---chapters-8-11)    |    Word 1 (June 5)     |    Word 4-7 (June 2)     |
-|    5    | June 10  |            Quiz             |    Chapter Quiz 1: Word    |           Details TBA            |               During Class Time               |                        |   Word 8-11  (June 9)    |
-|    6    | June 17  |        Live `[Zoom]`        | MS Powerpoint Chapters 1-4 | [Slides](http://tiny.cc/100-W6)  | [Videos](videos.md#powerpoint---chapters-1-3) |    Word 2 (June 19)    |                          |
-|    7    | June 24  | Asynchronous [Drop-in Help] | MS Powerpoint Chapters 4-7 | [Slides](http://tiny.cc/100-W8)  | [Videos](videos.md#powerpoint---chapters-4-7) | Powerpoint 1 (June 26) | Powerpoint 1-3 (June 23) |
-|    8    |  July 1  |          No Class           |         Canada Day         |                -                 |                       -                       |                        | Powerpoint 4-7 (June 30) |
-|    9    |  July 8  |            Quiz             | Chapter Quiz 2: Powerpoint |           Details TBA            |               During Class Time               | Powerpoint 2 (July 10) |                          |
-|   10    | July 15  |        Live `[Zoom]`        |     Excel Chapters 1-5     | [Slides](http://tiny.cc/100-W10) |   [Videos](videos.md#excel---chapters-1-6)    |                        |   Excel 1-6 (July 14)    |
-|   11    | July 22  | Asynchronous [Drop-in Help] |    Excel Chapters 6-11     | [Slides](http://tiny.cc/100-W11) |   [Videos](videos.md#excel---chapters-6-11)   |   Excel 1 (July 24)    |   Excel 7-11 (July 21)   |
-|   12    | July 29  |            Quiz             |   Chapter Quiz 3: Excel    |           Details TBA            |               During Class Time               |   Excel 2 (July 31)    |                          |
-|   13    |  Aug 5   |        Live `[Zoom]`        |         MS Access          |                                  |                                               |                        |                          |
+| **Wk#** | **Date** |        **Modality**         |         **Topic**          |              **Course Notes**              |                  **Videos**                   |    **Assignments**     |     **Module Test**      |
+| :-----: | :------: | :-------------------------: | :------------------------: | :----------------------------------------: | :-------------------------------------------: | :--------------------: | :----------------------: |
+|    1    |  May 13  |        Live `[Zoom]`        |  Syllabus & Introductions  | [Class Slides](http://tiny.cc/160-SU25-W1) |                                               |                        |                          |
+|    2    |  May 20  | Asynchronous [Drop-in Help] |    MS Word Chapters 1-3    |                  [Slides]                  |    [Videos](videos.md#word---chapters-1-3)    |                        |                          |
+|    3    |  May 27  |        Live `[Zoom]`        |    MS Word Chapters 4-7    |                  [Slides]                  |    [Videos](videos.md#word---chapters-4-7)    |                        |    Word 1-5  (May 26)    |
+|    4    |  June 3  | Asynchronous [Drop-in Help] |   MS Word Chapters 8-11    |                  [Slides]                  |   [Videos](videos.md#word---chapters-8-11)    |    Word 1 (June 5)     |                          |
+|    5    | June 10  |            Quiz             |    Chapter Quiz 1: Word    |                Details TBA                 |               During Class Time               |                        |   Word 6-11  (June 9)    |
+|    6    | June 17  |        Live `[Zoom]`        | MS Powerpoint Chapters 1-4 |                  [Slides]                  | [Videos](videos.md#powerpoint---chapters-1-3) |    Word 2 (June 19)    |                          |
+|    7    | June 24  | Asynchronous [Drop-in Help] | MS Powerpoint Chapters 4-7 |                  [Slides]                  | [Videos](videos.md#powerpoint---chapters-4-7) | Powerpoint 1 (June 26) | Powerpoint 1-3 (June 23) |
+|    8    |  July 1  |          No Class           |         Canada Day         |                     -                      |                       -                       |                        | Powerpoint 4-7 (June 30) |
+|    9    |  July 8  |            Quiz             | Chapter Quiz 2: Powerpoint |                Details TBA                 |               During Class Time               | Powerpoint 2 (July 10) |                          |
+|   10    | July 15  |        Live `[Zoom]`        |     Excel Chapters 1-5     |                  [Slides]                  |   [Videos](videos.md#excel---chapters-1-6)    |                        |   Excel 1-6 (July 14)    |
+|   11    | July 22  | Asynchronous [Drop-in Help] |    Excel Chapters 6-11     |                  [Slides]                  |   [Videos](videos.md#excel---chapters-6-11)   |   Excel 1 (July 24)    |   Excel 7-11 (July 21)   |
+|   12    | July 29  |            Quiz             |   Chapter Quiz 3: Excel    |                Details TBA                 |               During Class Time               |   Excel 2 (July 31)    |                          |
+|   13    |  Aug 5   |        Live `[Zoom]`        |         MS Access          |                                            |                                               |                        |      Access (Aug 4)      |
+
 
 ## Schedule Consistency 
 
