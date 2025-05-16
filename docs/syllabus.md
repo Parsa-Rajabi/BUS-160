@@ -89,8 +89,9 @@ The Learning outcomes for this course are:
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
-
 - [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,SUMM25,BUS,BUS160ON1,&)
+
+- Follow [these instructions](textbook-setup.md) to set up your Cengage MindTap account and access the course materials.
 
 ![](images/CIS110-textbook.png)
 
