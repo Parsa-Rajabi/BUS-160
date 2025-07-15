@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Quizzes
 
-<!-- ## Quiz 3
+## Quiz 3
 
 - **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
 - **When:** Tuesday, July 29
@@ -12,7 +12,6 @@
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
 **All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**
--->
 
 ## Quiz 2
 
